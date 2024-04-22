@@ -5,13 +5,13 @@ I'm a Frontend Engineer at [Evil Martians](https://evilmartians.com) with a pass
 ## Featured Articles 📝
 I love to write about new tech and share what I learn. Here are some of my articles:
 
-- **[Don’t wait, let’s use the browser Contact Picker API now](https://evilmartians.com/chronicles/dont-wait-lets-use-browser-contact-picker-api-now)**
+- **[How to manifest streamlined authentication: AWS Cognito in a React app](https://evilmartians.com/chronicles/how-to-manifest-streamlined-authentication-aws-cognito-in-a-react-app)**
 
 - **[Figma plugin API: diving into advanced algorithms & data structures](https://evilmartians.com/chronicles/figma-plugin-api-dive-into-advanced-algorithms-and-data-structures)**
 
 - **[Figma plugin magic tricks: mixing colors with SVG and Canvas API](https://evilmartians.com/chronicles/figma-plugin-magic-tricks-mixing-colors-with-svg-and-canvas-api)**
 
-- **[How to manifest streamlined authentication: AWS Cognito in a React app](https://evilmartians.com/chronicles/how-to-manifest-streamlined-authentication-aws-cognito-in-a-react-app)**
+- **[Don’t wait, let’s use the browser Contact Picker API now](https://evilmartians.com/chronicles/dont-wait-lets-use-browser-contact-picker-api-now)**
 
 ## Open Source Projects 🚀
 Check out some of the open source projects I actively contribute to and maintain:
