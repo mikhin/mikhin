@@ -1,6 +1,6 @@
 # Hi there, I'm Yuri Mikhin 👋
 
-I'm a software engineer passionate about web technologies and user interfaces.
+I'm a Frontend Engineer at [Evil Martians](https://evilmartians.com) with a passion for web technologies and user interfaces.
 
 ## Featured Articles 📝
 I love to write about new tech and share what I learn. Here are some of my articles:
