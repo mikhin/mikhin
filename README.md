@@ -16,13 +16,15 @@ I love to write about new tech and share what I learn. Here are some of my artic
 ## Open Source Projects 🚀
 Check out some of the open source projects I actively contribute to and maintain:
 
-- **[Contact Picker API Demo](https://github.com/yourgithub/contact-picker-api-demo)** - An API to give one-off access to a user’s contact information with full control over the shared data.
+- **[Figma Polychrom Plugin](https://github.com/evilmartians/figma-polychrom)** - Figma plugin for displaying the contrast level and font size recommendations according to the APCA method. 
 
-- **[Figma Plugin Boilerplate](https://github.com/yourgithub/figma-plugin-boilerplate)** - Starter kit forked from evilmartians/figma-polychrom, designed for developing Figma plugins using modern technologies like Vite, React, and Nanostores.
+- **[Contact Picker API Demo](https://github.com/mikhin/contact-picker-api-demo)** - An API to give one-off access to a user’s contact information with full control over the shared data.
+
+- **[Figma Plugin Boilerplate](https://github.com/mikhin/figma-plugin-boilerplate)** - Starter kit forked from evilmartians/figma-polychrom, designed for developing Figma plugins using modern technologies like Vite, React, and Nanostores.
   
-- **[Figma Widget Vite React TypeScript Template](https://github.com/yourgithub/figma-widget-vite-react-typescript-template)** - A comprehensive template designed to help you create Figma widgets using Vite, React, and TypeScript, provides a minimal setup with Hot Module Replacement (HMR) for a seamless development experience.
+- **[Figma Widget Vite React TypeScript Template](https://github.com/mikhin/figma-widget-vite-react-typescript-template)** - A comprehensive template designed to help you create Figma widgets using Vite, React, and TypeScript, provides a minimal setup with Hot Module Replacement (HMR) for a seamless development experience.
   
-- **[Madge Path Filter](https://github.com/yourgithub/madge-path-filter)** - Dependency filter for Madge, filters the dependency tree for the given module.
+- **[Madge Path Filter](https://github.com/mikhin/madge-path-filter)** - Dependency filter for Madge, filters the dependency tree for the given module.
 
 Explore these projects and feel free to contribute or use them in your own developments!
 
