@@ -5,6 +5,8 @@ I'm a Frontend Engineer at [Evil Martians](https://evilmartians.com) with a pass
 ## Featured Articles 📝
 I love to write about new tech and share what I learn. Here are some of my articles:
 
+- **[The lion's den: NestJS and authentication with AWS Cognito](https://evilmartians.com/chronicles/the-lions-den-nest-js-and-authentication-with-aws-cognito)**
+
 - **[How to manifest streamlined authentication: AWS Cognito in a React app](https://evilmartians.com/chronicles/how-to-manifest-streamlined-authentication-aws-cognito-in-a-react-app)**
 
 - **[Figma plugin API: diving into advanced algorithms & data structures](https://evilmartians.com/chronicles/figma-plugin-api-dive-into-advanced-algorithms-and-data-structures)**
