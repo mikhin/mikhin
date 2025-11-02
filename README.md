@@ -22,6 +22,8 @@ I love to write about new tech and share what I learn. Here are some of my artic
 ## Open Source Projects 🚀
 Check out some of the open source projects I actively contribute to and maintain:
 
+- **[Agent Prism](https://evilmartians.com/opensource/agent-prism)** - open source library of React components for visualizing traces from AI agents.
+
 - **[Figma Polychrom Plugin](https://github.com/evilmartians/figma-polychrom)** - Figma plugin for displaying the contrast level and font size recommendations according to the APCA method. 
 
 - **[Contact Picker API Demo](https://github.com/mikhin/contact-picker-api-demo)** - An API to give one-off access to a user’s contact information with full control over the shared data.
