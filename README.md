@@ -5,6 +5,8 @@ I'm a Frontend Engineer at [Evil Martians](https://evilmartians.com) with a pass
 ## Featured Articles 📝
 I love to write about new tech and share what I learn. Here are some of my articles:
 
+- **[Contract shock therapy: the way to API-first documentation bliss](https://evilmartians.com/chronicles/contract-shock-therapy-the-way-to-api-first-documentation-bliss)**
+
 - **[API contracts and everything I wish I knew: a frontend survival guide](https://evilmartians.com/chronicles/api-contracts-and-everything-i-wish-i-knew-a-frontend-survival-guide)**
 
 - **[The lion's den: NestJS and authentication with AWS Cognito](https://evilmartians.com/chronicles/the-lions-den-nest-js-and-authentication-with-aws-cognito)**
