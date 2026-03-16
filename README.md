@@ -1,6 +1,6 @@
 # Hi there, I'm Yuri Mikhin 👋
 
-I'm a Frontend Engineer at [Evil Martians](https://evilmartians.com) with a passion for web technologies and user interfaces.
+I'm an Engineer at [Evil Martians](https://evilmartians.com). API-first fanatic. Figma plugin maker with 13k+ users.
 
 ## Featured Articles 📝
 I love to write about new tech and share what I learn. Here are some of my articles:
@@ -22,6 +22,13 @@ I love to write about new tech and share what I learn. Here are some of my artic
 - **[Figma plugin magic tricks: mixing colors with SVG and Canvas API](https://evilmartians.com/chronicles/figma-plugin-magic-tricks-mixing-colors-with-svg-and-canvas-api)**
 
 - **[Don't wait, let's use the browser Contact Picker API now](https://evilmartians.com/chronicles/dont-wait-lets-use-browser-contact-picker-api-now)**
+
+## Figma Plugins 🎨
+
+- **[Kanban Board](https://www.figma.com/community/widget/1351833308415153127/kanban-board-trello-like)** - Trello-like boards inside Figma. 10.9k users.
+- **[Figma Mind Maps](https://www.figma.com/community/plugin/1542146994098256095/figma-mind-map-importer-exporter-plugin)** - Import & export mind maps. 2.2k users.
+- **[Comments Mover](https://www.figma.com/community/plugin/1563568797363678258/comments-mover-pages-coming-soon)** - Bulk transfer comments between files. 670+ users.
+- **[Dynamic Connector Formula](https://www.figma.com/community/widget/1554482530759515936/dynamic-connector-formula)** - Liquid template language for connectors.
 
 ## Open Source Projects 🚀
 Check out some of the open source projects I actively contribute to and maintain:
