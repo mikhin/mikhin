@@ -1,6 +1,6 @@
 # Hi there, I'm Yuri Mikhin 👋
 
-I'm an Engineer at [Evil Martians](https://evilmartians.com). API-first fanatic. Figma plugin maker with 13k+ users.
+I'm a Software Engineer at [Evil Martians](https://evilmartians.com). API-first fanatic. Figma plugin maker with 13k+ users.
 
 ## Featured Articles 📝
 I love to write about new tech and share what I learn. Here are some of my articles:
