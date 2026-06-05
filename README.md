@@ -5,6 +5,8 @@ I'm a Software Engineer at [Evil Martians](https://evilmartians.com). API-first 
 ## Featured Articles 📝
 I love to write about new tech and share what I learn. Here are some of my articles:
 
+- **[OpenAPI + NestJS: type-safe controllers from the contract](https://evilmartians.com/chronicles/openapi-nestjs-type-safe-controllers-from-the-contract)**
+
 - **[OpenAPI + Fastify: let the contract build your server](https://evilmartians.com/chronicles/openapi-fastify-backend-let-the-contract-build-your-server)**
 
 - **[Life's too short to hand-write API types: OpenAPI-driven React](https://evilmartians.com/chronicles/lifes-too-short-to-hand-write-api-types-openapi-driven-react)**
