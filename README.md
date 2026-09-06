@@ -5,6 +5,8 @@ I'm a Software Engineer at [Evil Martians](https://evilmartians.com). API-first 
 ## Featured Articles 📝
 I love to write about new tech and share what I learn. Here are some of my articles:
 
+- **[10 anti-AI slop moves for frontend projects going faster than humans can review](https://evilmartians.com/chronicles/ten-anti-ai-slop-moves-for-frontend-projects-going-faster-than-humans-can-review)**
+
 - **[OpenAPI + NestJS: type-safe controllers from the contract](https://evilmartians.com/chronicles/openapi-nestjs-type-safe-controllers-from-the-contract)**
 
 - **[OpenAPI + Fastify: let the contract build your server](https://evilmartians.com/chronicles/openapi-fastify-backend-let-the-contract-build-your-server)**
@@ -31,6 +33,8 @@ I love to write about new tech and share what I learn. Here are some of my artic
 - **[Figma Mind Maps](https://www.figma.com/community/plugin/1542146994098256095/figma-mind-map-importer-exporter-plugin)** - Import & export mind maps. 2.2k users.
 - **[Comments Mover](https://www.figma.com/community/plugin/1563568797363678258/comments-mover-pages-coming-soon)** - Bulk transfer comments between files. 670+ users.
 - **[Dynamic Connector Formula](https://www.figma.com/community/widget/1554482530759515936/dynamic-connector-formula)** - Liquid template language for connectors.
+- **[Gantt Chart](https://www.figma.com/community/widget/1655733687866006888/gantt-chart)** - Gantt charts inside Figma. 2k users.
+- **[Percept11y](https://www.figma.com/community/plugin/1636745379895311011/percept11y-accessibility-contrast-checker)** - APCA-based accessibility & contrast checker.
 
 ## Open Source Projects 🚀
 Check out some of the open source projects I actively contribute to and maintain:
