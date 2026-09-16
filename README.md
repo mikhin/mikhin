@@ -2,7 +2,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png">
   <img src="assets/hero-light.png" alt="Yuri Mikhin — Software Engineer at Evil Martians. API-first fanatic. Figma plugin maker." width="100%">
 </picture>
-<img src="assets/plate-articles.png" alt="Featured articles" width="100%">
+
+## Featured articles
+
 <a href="https://evilmartians.com/chronicles/ten-anti-ai-slop-moves-for-frontend-projects-going-faster-than-humans-can-review"><img src="https://evilmartians.com/social-cards/chronicles/ten-anti-ai-slop-moves-for-frontend-projects-going-faster-than-humans-can-review.jpg" alt="10 anti-AI slop moves for frontend projects going faster than humans can review" width="100%"></a>
 <a href="https://evilmartians.com/chronicles/openapi-nestjs-type-safe-controllers-from-the-contract"><img src="https://evilmartians.com/social-cards/chronicles/openapi-nestjs-type-safe-controllers-from-the-contract.jpg" alt="OpenAPI + NestJS: type-safe controllers from the contract" width="49.7%"></a>
 <a href="https://evilmartians.com/chronicles/openapi-fastify-backend-let-the-contract-build-your-server"><img src="https://evilmartians.com/social-cards/chronicles/openapi-fastify-backend-let-the-contract-build-your-server.jpg" alt="OpenAPI + Fastify: let the contract build your server" width="49.7%"></a>
@@ -14,14 +16,18 @@
 <a href="https://evilmartians.com/chronicles/figma-plugin-api-dive-into-advanced-algorithms-and-data-structures"><img src="https://evilmartians.com/social-cards/chronicles/figma-plugin-api-dive-into-advanced-algorithms-and-data-structures.jpg" alt="Figma plugin API: diving into advanced algorithms &amp; data structures" width="49.7%"></a>
 <a href="https://evilmartians.com/chronicles/figma-plugin-magic-tricks-mixing-colors-with-svg-and-canvas-api"><img src="https://evilmartians.com/social-cards/chronicles/figma-plugin-magic-tricks-mixing-colors-with-svg-and-canvas-api.jpg" alt="Figma plugin magic tricks: mixing colors with SVG and Canvas API" width="49.7%"></a>
 <a href="https://evilmartians.com/chronicles/dont-wait-lets-use-browser-contact-picker-api-now"><img src="https://evilmartians.com/social-cards/chronicles/dont-wait-lets-use-browser-contact-picker-api-now.jpg" alt="Don't wait, let's use the browser Contact Picker API now" width="49.7%"></a>
-<img src="assets/plate-plugins.png" alt="Figma plugins &amp; widgets" width="100%">
+
+## Figma plugins &amp; widgets
+
 <a href="https://www.figma.com/community/widget/1351833308415153127/kanban-board-trello-like"><img src="assets/plugin-kanban.png" alt="Kanban Board — Trello-like boards inside Figma. 10.9K users" width="49.7%"></a>
 <a href="https://www.figma.com/community/plugin/1542146994098256095/figma-mind-map-importer-exporter-plugin"><img src="assets/plugin-mindmaps.png" alt="Mind Maps — import &amp; export mind maps. 2.2K users" width="49.7%"></a>
 <a href="https://www.figma.com/community/widget/1655733687866006888/gantt-chart"><img src="assets/plugin-gantt.png" alt="Gantt Chart — Gantt charts inside Figma. 2K users" width="49.7%"></a>
 <a href="https://www.figma.com/community/plugin/1563568797363678258/comments-mover-pages-coming-soon"><img src="assets/plugin-comments.png" alt="Comments Mover — bulk transfer comments between files. 670+ users" width="49.7%"></a>
 <a href="https://www.figma.com/community/plugin/1636745379895311011/percept11y-accessibility-contrast-checker"><img src="assets/plugin-percept11y.png" alt="Percept11y — APCA-based accessibility &amp; contrast checker" width="49.7%"></a>
 <a href="https://www.figma.com/community/widget/1554482530759515936/dynamic-connector-formula"><img src="assets/plugin-connector.png" alt="Connector Formula — Liquid template language for connectors" width="49.7%"></a>
-<img src="assets/plate-oss.png" alt="Open source" width="100%">
+
+## Open source
+
 <a href="https://heyapi.dev/openapi-ts/plugins/nest"><img src="assets/oss-heyapi.png" alt="NestJS plugin for Hey API — OpenAPI plugin generating type-safe controller method signatures for NestJS" width="100%"></a>
 <a href="https://evilmartians.com/opensource/agent-prism"><img src="assets/oss-agentprism.png" alt="Agent Prism — React components for visualizing AI agent traces" width="49.7%"></a>
 <a href="https://github.com/evilmartians/figma-polychrom"><img src="assets/oss-polychrom.png" alt="Polychrom — APCA contrast levels &amp; font size recommendations" width="49.7%"></a>
