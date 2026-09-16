@@ -25,7 +25,6 @@
 <a href="https://heyapi.dev/openapi-ts/plugins/nest"><img src="assets/oss-heyapi.png" alt="NestJS plugin for Hey API — OpenAPI plugin generating type-safe controller method signatures for NestJS" width="100%"></a>
 <a href="https://evilmartians.com/opensource/agent-prism"><img src="assets/oss-agentprism.png" alt="Agent Prism — React components for visualizing AI agent traces" width="49.7%"></a>
 <a href="https://github.com/evilmartians/figma-polychrom"><img src="assets/oss-polychrom.png" alt="Polychrom — APCA contrast levels &amp; font size recommendations" width="49.7%"></a>
-<a href="https://github.com/mikhin/figma-plugin-boilerplate"><img src="assets/oss-boilerplate.png" alt="Figma Plugin Boilerplate — Vite + React + Nanostores starter for Figma plugins" width="49.7%"></a>
+<a href="https://github.com/mikhin/nature"><img src="assets/oss-nature.png" alt="nature — spec-first kernel on three primitives: nature / observe / action" width="49.7%"></a>
 <a href="https://github.com/mikhin/figma-widget-vite-react-typescript-template"><img src="assets/oss-widget-template.png" alt="Figma Widget Template — Vite + React + TypeScript widget setup with HMR" width="49.7%"></a>
 <a href="https://github.com/mikhin/contact-picker-api-demo"><img src="assets/oss-contact-picker.png" alt="Contact Picker API — one-off access to user contacts with full control over shared data" width="49.7%"></a>
-<a href="https://github.com/mikhin/madge-path-filter"><img src="assets/oss-madge.png" alt="Madge Path Filter — dependency-tree filter for Madge" width="49.7%"></a>
