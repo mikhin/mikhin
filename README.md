@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png">
-  <img src="assets/hero-light.png" alt="Yuri Mikhin — Software Engineer at Evil Martians. Empty repo → live product. Figma plugin maker." width="100%">
+  <img src="assets/hero-light.png" alt="Yuri Mikhin — Software Engineer at Evil Martians. Empty repo → live product." width="100%">
 </picture>
 
 Lately my job looks less like frontend engineering and more like being someone's CTO. A founder shows up with an idea and an empty repository, and I turn it into a live product: I choose the stack, design the architecture, define the scope, plan the releases, and write the code.
